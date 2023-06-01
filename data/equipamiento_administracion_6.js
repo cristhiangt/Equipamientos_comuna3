@@ -1,0 +1,12 @@
+var json_equipamiento_administracion_6 = {
+"type": "FeatureCollection",
+"name": "equipamiento_administracion_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nombre": "gobernacion del valle del cauca", "localizacion": "cl9 cl10 kr6 kr8", "servicio": "gestion institucional" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.533867298792984, 3.449279500987985 ], [ -76.533748507221063, 3.448698010326352 ], [ -76.53301668092773, 3.4488343954726 ], [ -76.533135413673151, 3.449518490083062 ], [ -76.533867298792984, 3.449279500987985 ] ] ] } },
+{ "type": "Feature", "properties": { "nombre": "Asamblea departamental", "localizacion": "kr9 cl9", "servicio": "gestion institucional" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.53414784463898, 3.447931063614454 ], [ -76.533988103178103, 3.447972701859891 ], [ -76.534147258889902, 3.448453418998541 ], [ -76.533816673989676, 3.448527042808496 ], [ -76.53374903178252, 3.447774574866844 ], [ -76.534089418433993, 3.447706367380892 ], [ -76.53414784463898, 3.447931063614454 ] ] ] } },
+{ "type": "Feature", "properties": { "nombre": "Procuraduria nacional", "localizacion": "kr 9 no 8 56", "servicio": "gestion instutucional" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.533950324731094, 3.447510683094204 ], [ -76.533803738980282, 3.446957027960044 ], [ -76.533491545041002, 3.447012206016235 ], [ -76.53352789263586, 3.447676512139527 ], [ -76.533950324731094, 3.447510683094204 ] ] ] } },
+{ "type": "Feature", "properties": { "nombre": "Beneficencia del valle", "localizacion": "cl 9 no 4 50", "servicio": "gestion institucional" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.534848099702543, 3.45101714802738 ], [ -76.534793148068559, 3.450777235717583 ], [ -76.53444423817804, 3.450813940487716 ], [ -76.534480764281966, 3.451164556461157 ], [ -76.534848099702543, 3.45101714802738 ] ] ] } },
+{ "type": "Feature", "properties": { "nombre": "Direccion de impuestos y aduanas", "localizacion": "kr 3 no 10 60", "servicio": "gestion institucional " }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -76.533690386221323, 3.452548030533534 ], [ -76.533507148607924, 3.451865187695207 ], [ -76.53299286992636, 3.452086320494419 ], [ -76.533176065146591, 3.452842972815249 ], [ -76.533690386221323, 3.452548030533534 ] ] ] } }
+]
+}
